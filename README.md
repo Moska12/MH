@@ -9,11 +9,11 @@
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=Moska12&label=Profile%20views&color=0047AB&style=plastic?" alt="Moska12" height=25px, width=160px/> 
 	<!---
-		<a href = "https://commits.top/egypt.html" target="_blank">
-			<img src="https://aktive.tk/egypt/7oSkaaa?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
+		<a href = "https://commits.top/AFG.html" target="_blank">
+			<img src="https://aktive.tk/AFG/Moska12?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
 		</a>
 	-->
-	<a href = "https://commits.top/egypt.html" target="_blank">
+	<a href = "https://commits.top/AFG.html" target="_blank">
 		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="Moska12" target="_blank" height=25px, width=250px/> 
 	</a>
 
@@ -22,12 +22,11 @@
 	
 ## <picture><img src = "https://github.com/Moska12/Moska12/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/Moska12/Moska12/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
 
-- :school: I am a `Junior` at [Faculty of Computers & Informatics](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/).
-- :trophy: 2x `ACPC` Finalist.
+- :school: I am a `Junior` IT student
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
@@ -39,12 +38,9 @@
 ## <picture> <img src="https://github.com/Moska12/Moska12/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
 
 <p align="center">
-  <a href="https://codeforces.com/profile/7oSkaaa"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
-	<a href="https://leetcode.com/7oSkaa/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
-	<a href="https://atcoder.jp/users/ahmed_7oSkaa"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width = 60px/></a>
-	<a href="https://www.codechef.com/users/ahmed_7oskaa"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
-	<a href="https://icpc.global/ICPCID/IW0X0CTD0ZV9"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width = 60px /></a>     
-	<a href="https://www.codingame.com/profile/e5e56c7585fda3b457056b85180a4d636850344" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50">
+  <a href="https://codeforces.com/profile/Moska12"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a> 
+	<a href="https://www.codechef.com/users/moska12"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>     
+	<a href="https://www.codingame.com/profile/617a50e2b4128b0853f9361b2f70effc7394306" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50">
 </p>
 
 ## <picture> <img src="https://github.com/Moska12/Moska12/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
