@@ -41,7 +41,7 @@
 	<a href="https://www.codingame.com/profile/617a50e2b4128b0853f9361b2f70effc7394306" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50">
 </p>
 
-## <picture> <img src="https://github.com/Moska12/Moska12/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
 	<a href="moskaharer18@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
 	<a href="https://github.com/Moska12"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
@@ -55,7 +55,7 @@
 
 ## 🛠️ My Skills
 
-### <picture> <img src = "https://github.com/Moska12/Moska12/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture> Programming languages
 
 <p align="center"> 
   &emsp; 
@@ -76,7 +76,7 @@
   </a>
 </p>
 
-### <picture> <img src = "https://github.com/Moska12/Moska12/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
 <p align="center"> 
   &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -96,7 +96,7 @@
    </a>
 </p>
 
- ### <picture> <img src = "https://github.com/Moska12/Moska12/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
+ ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
  
 <p align="center">
   &emsp;
@@ -125,7 +125,7 @@
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
-## <picture> <img src = "https://github.com/Moska12/Moska12/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
 ----	
 
