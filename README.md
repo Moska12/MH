@@ -13,9 +13,7 @@
 			<img src="https://aktive.tk/AFG/Moska12?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
 		</a>
 	-->
-	<a href = "https://commits.top/AFG.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="Moska12" target="_blank" height=25px, width=250px/> 
-	</a>
+	
 
 </p>
 
