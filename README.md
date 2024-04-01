@@ -31,3 +31,4 @@ I'm a developer, code enthusiast, and creative thinker. Here's a glimpse into my
 - Pull Requests: **0** 🚀
 - Issues Resolved: **0** 🐞
 - Contributions (last year): **0** 📊
+- https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/blob/975a21d1c50f81eff9b4e6470a3ffe912cfafa05/templates/1010nishant.md
